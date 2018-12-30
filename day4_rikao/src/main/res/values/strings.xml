@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Day4_rikao</string>
+    <string name="text_x">个人信息</string>
+    <string name="text_t">头像</string>
+    <string name="text_y">用户名</string>
+    <string name="text_n">昵称</string>
+    <string name="text_c">从相册选取</string>
+    <string name="text_p">拍照</string>
+    <string name="text_q">取消</string>
+</resources>
